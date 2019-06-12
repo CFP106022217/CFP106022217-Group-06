@@ -54,4 +54,5 @@
      
 ### 6. Details   
 
-
+![image](https://github.com/CFP106022217/Group-06/blob/master/1.jpg)
+![image](https://github.com/CFP106022217/Group-06/blob/master/2.jpg)
