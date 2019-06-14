@@ -20,20 +20,33 @@
      Test those equations in Python, and compare to the prediction.
 ### 4.Assignment
 
-    The Study of Theory
+    Studying the Theory
       鍾佳穎
       鄧亦琇
 
-    The Plan of Simulation
+    Written Report
       鄧亦琇
       陳雯雯
-
-    The Direction of Programming
-      林祐佑
-
-    The Whole Construction of Programming
-      范庭瑄
       吳婕如
+
+    Studying the Method to Create Animation and Slider in Python
+      林祐佑
+      范庭瑄
+
+    Programming
+      范庭瑄
+      林祐佑
+    
+    Debugging
+      鍾佳穎
+      范庭瑄
+      
+    Oral Report
+      林祐佑
+      鄧亦琇
+      陳雯雯
+      吳婕如
+      
 ### 5.Weekly Goal
 
      Week1 (4/25~5/1)
@@ -44,10 +57,10 @@
       The Direction of Programming
 
      Week4 (5/16~5/22)
-      The Whole Construction of Programming
+      Creating Animated Graph in Python
 
      Week5~7 (5/23~6/12)
-      The Whole Construction of Programming
+      Adding Sliders
 
      Week8~9 (6/13~6/26) 
       For Flexible use
